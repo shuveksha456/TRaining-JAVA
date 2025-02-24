@@ -1,0 +1,5 @@
+Note: OOP Principle
+Inheritance: parent ko child le access lina pauni
+Polymorphism: Duplication Two types:- i.Overriding   ii.Overloading
+Abstraction: complex hide garerw simple code display garxa
+Encapsulation: Authorization -> security access kaa rw kk ma authorize ya access dine kaam
