@@ -1,3 +1,4 @@
+ //Inheritance Example
  class Arithmetic {
     int add (int a, int b){
         return a + b ;
@@ -10,4 +11,4 @@ public class Addition extends Arithmetic {
         int result= a . add(2,4);
         System.out.println("Result:" + result);
     }
-}
+} 
