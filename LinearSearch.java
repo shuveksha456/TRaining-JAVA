@@ -9,7 +9,7 @@ public class LinearSearch {
     }
 
     public static void main(String[] args) {
-        int[] arr = {10, 20, 30, 40, 50}; // Sample array
+        int[] arr = {10, 20, 30, 40, 50}; 
         int target = 30; // Element to search
 
         int result = linearSearch(arr, target); // Call the search function

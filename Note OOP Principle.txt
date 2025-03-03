@@ -1,7 +1,9 @@
 Note: OOP Principle
 Inheritance: parent class ko child class le access lina pauni
              :- i. super class    ii. sub class
-             :- i. super:-parent class         ii. this:-current class
+             :- i. super:-parent class ko reference linxa        ii. this:-current class ko reference linxa
+             :-main bidy ma object banauni :-bahirw xa vani this rw super use garni
+             :-main body ma child class object banayerw call garni method xa tesaile
 Polymorphism: Duplication Two types:- i.Overriding :- same method different implementation  
                                       ii.Overloading:- same method different signature(parenthesis ko vitra ko value )
 Abstraction: complex hide garerw simple code display garxa
