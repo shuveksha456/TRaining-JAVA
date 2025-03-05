@@ -10,7 +10,7 @@ public class InheritanceExample {
             System.out.println("Add two digits: " + result);
         }
     }
-
+ 
   
     class Addition {
         Arithmetic add;
