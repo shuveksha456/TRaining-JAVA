@@ -22,8 +22,8 @@ public class LargestInteger {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); 
         System.out.println("Enter array size: ");
-      
         int arraySize = scanner.nextInt();
+        
         LargestInteger num = new LargestInteger(); 
         num.arr = new int[arraySize]; 
 
