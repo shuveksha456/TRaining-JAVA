@@ -1,0 +1,18 @@
+wrapper class: i. Integer       ii. String
+ 
+ convert int to string :-
+   int num= 5;
+   String a = String.valueOf(num);   // "5"   //valueOf ="static"
+
+convert string to int :-
+   String b = "6";
+   int c = Integer.parseInt(b);    //"6"
+
+ Array List       //arrayList = class , arrayList = generic
+   ArrayList list = new ArrayList();          //object
+    list.add("Orange");
+    list.add("Blue");
+    list.add("white")
+
+
+
